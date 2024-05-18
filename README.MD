@@ -27,7 +27,7 @@ go run main.go
 ```
 2. Open a web browser and visit:
 ```
-http://localhost:8122
+http://localhost:8000
 ```
 
 ## AUTHORS
