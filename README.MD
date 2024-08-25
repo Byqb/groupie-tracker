@@ -32,7 +32,7 @@ http://localhost:8000
 
 ### In the web:
 
-https://www.canva.com/design/DAGO4dX6R-s/0LoHFaE2R5TcOPgl8SaxoQ/watch?utm_content=DAGO4dX6R-s&utm_campaign=designshare&utm_medium=link&utm_source=editor
+https://github.com/user-attachments/assets/f0fc53bd-9297-4b3c-8765-ccb0640f9013
 
 ## AUTHORS
 
